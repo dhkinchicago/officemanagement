@@ -1,8 +1,3 @@
-#
-#    note see fixes in om100bkup
-#
-#    do not run this version
-#
 # ----------------------------------------------
 #  OM100  Room Inquiry
 #

@@ -10,3 +10,5 @@ Currently, the programs here are:
 4. the programs to do maintenance to the database
 
 There is documentation in the file called: program documentation
+
+Note: programs need python version 3.11 or higher
